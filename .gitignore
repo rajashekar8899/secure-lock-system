@@ -1,0 +1,30 @@
+# Gowin EDA Artifacts
+impl/
+build/
+*.fs
+*.bin
+*.binx
+*.rpt.txt
+*.gprj.user
+*.vo
+*.vcd
+
+# Arduino / ESP32 Artifacts
+*.elf
+*.bin
+*.map
+*.hex
+debug/
+build/
+
+# System / IDE
+.vscode/
+.idea/
+*.swp
+thumbs.db
+.DS_Store
+
+# Temporary
+*.log
+*.bak
+*.tmp
